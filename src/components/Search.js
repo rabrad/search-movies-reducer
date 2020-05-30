@@ -17,7 +17,7 @@ export default function SearchMovie({ search }) {
     <Form className='my-form'>
       <Form.Group unstackable>
         <Form.Input
-          width={6}
+          width={8}
           type='text'
           placeholder='Search a movie'
           value={query}
