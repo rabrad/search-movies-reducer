@@ -18,7 +18,7 @@
   margin: 3rem;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 768px) {
   .my-form {
     /* margin-bottom: 30px; */
     padding-bottom: 1.5rem;
